@@ -1,0 +1,14 @@
+.cost-container{
+    background-color: gainsboro;
+    padding: 10px;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.cost-heading{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    color: blue;
+}

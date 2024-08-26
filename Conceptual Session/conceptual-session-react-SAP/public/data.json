@@ -1,0 +1,169 @@
+[
+    {
+        "id": 1,
+        "name": "Sudais",
+        "age": 51,
+        "role":"Imam",
+        "image": "https://i.ibb.co/nb9jKz0/Abdul-Rahman-Al-Sudais-Cropped-2011.jpg",
+        "salary": 7584,
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 2,
+        "name": "Mishwari",
+        "age": 95,
+        "role":"Hafiz",
+        "image": "https://i.ibb.co/PwXGkxX/stock-photo-great-persians-series-shamsuddin-muhammad-hafiz-shirazi-is-a-persian-poet-and-sufi-sheik.jpg",
+        "salary": 11544,
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 3,
+        "name": "Albani",
+        "age": 71,
+        "role": "Fokhi",
+        "image": "https://i.ibb.co/G7yKvwQ/20210806-014526.webp",
+        "salary": 4579,
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 4,
+        "name": "Utaimeen",
+        "age": 65,
+        "role":"Scholar",
+        "image": "https://i.ibb.co/Wy7Bv6j/muhammad-ibn-al-uthaymeen-abcb03e5-545d-42bb-aed3-9852c82f26b-resize-750.jpg",
+        "salary": 4575,
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 5,
+        "name": "Ibn Bazz",
+        "age": 56,
+        "role":"Scholar",
+        "image": "https://i.ibb.co/kmh9WBB/download.jpg",
+        "salary": 3568,
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 6,
+        "name": "Saifullah",
+        "age": 40,
+        "role":"Fokhi",
+        "image": "https://i.ibb.co/zfnYYyJ/download-1.jpg",
+        "salary": 5678,
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 7,
+        "name": "Monjur E Elahi",
+        "age": 37,
+        "role":"Scholar",
+        "image": "https://i.ibb.co/w7nDw0t/download-2.jpg",
+        "salary": 8564,
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 8,
+        "name": "Abdullah Jahangir",
+        "age": 53,
+        "role":"Dayee & Scholar",
+        "image": "https://i.ibb.co/gFM3BTM/download-3.jpg",
+        "salary": 4589,
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 9,
+        "name": "Zakir Nyak",
+        "age": 53,
+        "role":"Dayee",
+        "image": "https://i.ibb.co/F035xKP/download-4.jpg",
+        "salary": 4586,
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 10,
+        "name": "Abubokor Zakaria",
+        "age": 36,
+        "role":"Scholor",
+        "image": "https://i.ibb.co/Ht3JDJt/download.jpg",
+        "salary": 5454,
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 11,
+        "name": "Imam Hossain",
+        "age": 50 ,
+        "role":"Imam",
+        "image": "https://i.ibb.co/6F296Nx/images.jpg",
+        "salary": 4578,
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 12,
+        "name": "Rofiqul Islam",
+        "age": 48,
+        "role":"Scholor",
+        "image": "https://i.ibb.co/Y0nNFTk/maxresdefault.jpg",
+        "salary": 7845,
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 13,
+        "name": "Enamul Haque",
+        "age": 52,
+        "role":"Engineer",
+        "image": "https://i.ibb.co/F612yWC/images-1.jpg",
+        "salary": 4585,
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 14,
+        "name": "Abu Toha",
+        "age": 43,
+        "role":"Dayee",
+        "image": "https://i.ibb.co/wr4Y0FD/download-1.jpg",
+        "salary": 4544,
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+        
+    },
+    {
+        "id": 15,
+        "name": "Naseel Shahrukh",
+        "age": 33,
+        "role":"Hafiz",
+        "image": "https://i.ibb.co/sWVLWQz/rs-w-600-h-600-cg-true.webp",
+        "salary": 9464,
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+        
+    }
+]

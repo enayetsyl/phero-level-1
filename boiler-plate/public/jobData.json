@@ -1,0 +1,1031 @@
+
+
+[
+  {
+    "job1": {
+      "technicalSkill": ["Python", "front-end and back-end development", "web development principles", "database management", "PHP", "Node.js", "Linux environments", "MySQL", "PostgreSQL", "MongoDB", "client-side scripting", "JavaScript frameworks", "code versioning tools (Git)", "development tools (Bower, Bundler, Rake, Gulp)", "continuous integration processes"],
+      "softSkill": ["Analytical", "problem-solving", "communication", "collaboration", "detail-oriented", "proactive", "self-motivated", "multitasking", "entrepreneurial mindset", "adaptability"],
+      "Experience": ["Bachelor’s degree in Computer Science or related field, or equivalent experience"],
+      "keyWordsForATS": ["Python", "web development", "front-end", "back-end", "database management", "PHP", "Node.js", "Linux", "MySQL", "PostgreSQL", "MongoDB", "JavaScript", "Git", "continuous integration"]
+    }
+  },
+  {
+    "job2": {
+      "technicalSkill": ["C", "C#", "Java", "SQL", "NoSQL", "web development principles", "ASP.NET", "Spring", "HTML", "CSS", "JavaScript", "Git"],
+      "softSkill": ["Problem-solving", "attention to detail", "adaptability", "communication", "teamwork"],
+      "Experience": ["Bachelor’s degree in Computer Science or related field", "3-5 years’ experience"],
+      "keyWordsForATS": ["C", "C#", "Java", "SQL", "NoSQL", "ASP.NET", "Spring", "HTML", "CSS", "JavaScript", "Git"]
+    }
+  },
+  {
+    "job3": {
+      "technicalSkill": ["HTML5", "CSS3", "JavaScript", "Angular or React framework", ".NET Core", "SQL Server", "full-stack development"],
+      "softSkill": ["Analytical", "communication", "teamwork"],
+      "Experience": ["Bachelor’s degree in Computer Science or related field", "1-2+ years of full-stack development experience"],
+      "keyWordsForATS": ["HTML5", "CSS3", "JavaScript", "Angular", "React", ".NET Core", "SQL Server", "full-stack development"]
+    }
+  },
+  {
+    "job4": {
+      "technicalSkill": ["Java stack/J2EE", "Spring Boot", "JPA", "Docker", "Docker Compose", "automated testing", "CI/CD tools", "microservices architecture", "AWS", "JavaScript frameworks (jQuery, React, Angular)", "REST/JSON", "SOAP/XML", "relational databases"],
+      "softSkill": ["Communication", "problem-solving", "collaboration", "adaptability"],
+      "Experience": ["Entry level to 2 years related experience"],
+      "keyWordsForATS": ["Java", "Spring Boot", "JPA", "Docker", "CI/CD", "microservices", "AWS", "JavaScript frameworks", "REST/JSON", "SOAP/XML"]
+    }
+  },
+  {
+    "job5": {
+      "technicalSkill": ["Python", "PHP", "Databricks", "MS SQL Server", "Azure SQL", "Azure Synapse", "Oracle", "Redshift", "Couchbase", "REST API architecture", "Relational Database Management Systems"],
+      "softSkill": ["Collaboration", "analytical mindset", "business skills"],
+      "Experience": ["Bachelor’s degree in Computer Science or related field", "2+ years of experience"],
+      "keyWordsForATS": ["Python", "PHP", "Databricks", "SQL Server", "Azure SQL", "Azure Synapse", "Oracle", "Redshift", "Couchbase", "REST API", "RDBMS"]
+    }
+  },
+  
+    {
+      "job6": {
+        "technicalSkill": [
+          "PHP",
+          "SCSS",
+          "React/JS",
+          "Python/Java",
+          "SQL",
+          "Web services",
+          "CI/CD pipeline",
+          "Unit testing",
+          "Docker",
+          "AWS"
+        ],
+        "softSkill": [
+          "Communication",
+          "Problem-solving",
+          "Decision-making"
+        ],
+        "experience": [
+          "Minimum 2 years of experience working",
+          "Experience using PHP and Python or Java in a web-based environment",
+          "Familiarity with SQL",
+          "Ability to analyze business requirements"
+        ],
+        "keyWordsForATS": [
+          "Developer",
+          "PHP",
+          "SCSS",
+          "React/JS",
+          "Python",
+          "Java",
+          "SQL",
+          "Web services",
+          "CI/CD",
+          "Unit testing",
+          "Docker",
+          "AWS",
+          "Communication",
+          "Problem-solving",
+          "Decision-making",
+          "Penguin Random House"
+        ]
+      }
+    },
+    {
+      "job7": {
+        "technicalSkill": [
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "jQuery",
+          "LESS/SASS",
+          "Git",
+          "Image editing tools (e.g., Photoshop)"
+        ],
+        "softSkill": [
+          "Problem-solving",
+          "Communication",
+          "Collaboration"
+        ],
+        "experience": [
+          "1-2 years of experience in web development (bootcamps accepted)",
+          "Basic knowledge of asynchronous request handling, partial page updates, and AJAX.",
+          "Proficient understanding of code versioning tools, such as Git."
+        ],
+        "keyWordsForATS": [
+          "Web Developer",
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "jQuery",
+          "LESS",
+          "SASS",
+          "Git",
+          "Image editing",
+          "Problem-solving",
+          "Communication",
+          "Collaboration",
+          "IBG Software"
+        ]
+      }
+    },
+    {
+      "job8": {
+        "technicalSkill": [
+          "JavaScript",
+          "TypeScript",
+          ".NET",
+          ".NET Core"
+        ],
+        "softSkill": [],  
+        "experience": [],  
+        "keyWordsForATS": [
+          "Software Developer",
+          "JavaScript",
+          "TypeScript",
+          ".NET",
+          ".NET Core",
+          "Remote work",
+          "Great culture"
+        ]
+      }
+    },
+    {
+      "job9": {
+        "technicalSkill": [
+          "JavaScript",
+          "TypeScript",
+          "React",
+          "NodeJS",
+          "AWS API Gateway",
+          "AWS Lambda",
+          "DynamoDB",
+          "REST APIs",
+          "GraphQL",
+          "JSON data",
+          "Git"
+        ],
+        "softSkill": [
+          "Collaboration",
+          "Communication",
+          "Passion for sports (preferred)"
+        ],
+        "experience": [
+          "Bachelor's degree in Computer Science, Engineering, or a related technical field",
+          "Experience with microservices architecture using AWS services (API Gateway, Lambda, DynamoDB)"
+        ],
+        "keyWordsForATS": [
+          "Software Engineer",
+          "JavaScript",
+          "TypeScript",
+          "React",
+          "NodeJS",
+          "AWS",
+          "Microservices",
+          "Cloud platforms",
+          "Scrum",
+          "DevOps",
+          "Collaboration",
+          "Communication",
+          "Sports (preferred)",
+          "CBS Sports",
+          "Media and Broadcasting"
+        ]
+      }
+    },
+    {
+      "job10": {
+        "technicalSkill": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React.js, Vue.js, Angular, TypeScript, GraphQL, Next.js (preferred)",
+          "Git",
+          "Agile methodologies"
+        ],
+        "softSkill": [
+          "Communication",
+          "Collaboration",
+          "Teamwork"
+        ],
+        "experience": [
+          "Proven experience developing and maintaining web applications",
+          "Understanding of responsive web design"
+        ],
+        "keyWordsForATS": [
+          "Front End Developer",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React.js",
+          "Vue.js",
+          "Angular",
+          "TypeScript",
+          "GraphQL",
+          "Next.js",
+          "Git",
+          "Agile",
+          "Communication",
+          "Collaboration",
+          "Teamwork",
+          "Gigster Talent Network"
+        ]
+      }
+    },
+  {
+    "job11": {
+      "technicalSkill": [
+        "C#",
+        ".Net",
+        "React",
+        "Angular",
+        "Bootstrap",
+        "UiPath",
+        "RPA",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Social Security Administration standard practices",
+        "robotic process automation (RPA) development using UiPath and other comparable tools"
+      ],
+      "softSkill": [
+        "analytical",
+        "problem-solving",
+        "communication",
+        "attention to detail",
+        "teamwork",
+        "time management",
+        "prioritization",
+        "customer service",
+        "creativity",
+        "innovation",
+        "integrity",
+        "adaptability",
+        "collaboration",
+        "presentation skills",
+        "meeting deadlines",
+        "learning agility",
+        "continuous improvement"
+      ],
+      "Experience": [
+        "experience using high-level functional systems analysis, design, integration, documentation, and implementation methodologies on complex problems that require in-depth knowledge of the subject matter for effective implementation",
+        "working cross-functionally with operations and analysts to get a clear understanding of business processes to create and optimize workflow processes",
+        "developing UI using web design front-end framework and automation tools such as CSS, HTML, Robotic Process Automation (RPA), React, Angular, Bootstrap, and UiPath",
+        "building and maintaining sets of automations for multiple projects",
+        "planning and participating in deployment of RPA platform components, including bots, orchestrators, development tools, and systems integrations, to meet enterprise requirements for security, scalability, and performance",
+        "ability to independently analyze customer technical business processes and to quickly and accurately identify and catalogue the steps involved in the execution of those processes",
+        "ability to design and deliver on-time RPA solutions that successfully automate the steps involved in the execution of the customer’s business tasks",
+        "possess sufficient technical competence to work independently in delivering automation projects and to serve as technical resource upon project completion",
+        "capable of developing and maintaining design documentation on RPAs"
+      ],
+      "keyWordsForATS": [
+        "Full Stack Web Developer",
+        "C#",
+        ".Net",
+        "React",
+        "Angular",
+        "Bootstrap",
+        "UiPath",
+        "RPA",
+        "Social Security Administration",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Agile",
+        "Public Trust clearance",
+        "UiPath Certified Advanced RPA Developer",
+        "customer centricity",
+        "teamwork",
+        "driven to deliver",
+        "innovation",
+        "integrity"
+      ]
+    }
+  },
+  {
+    "job12": {
+      "technicalSkill": [
+        "Typescript",
+        "React",
+        "CI/CD",
+        "microservices",
+        "Backstage Framework"
+      ],
+      "softSkill": [],
+      "Experience": [
+        "10+ years of industry experience in architecture, design, software development",
+        "experience building Event Driven systems and Architecture",
+        "experience developing systems based on patterns of microservices",
+        "Bachelor's degree preferred"
+      ],
+      "keyWordsForATS": [
+        "Full Stack Engineer",
+        "Typescript",
+        "React",
+        "CI/CD",
+        "microservices",
+        "Backstage Framework",
+        "long-term opportunity",
+        "competitive compensation package"
+      ]
+    }
+  },
+  {
+    "job13": {
+      "technicalSkill": [
+        "Java",
+        "Elastic",
+        "Kafka",
+        "Secret Clearance"
+      ],
+      "softSkill": [
+        "communication",
+        "collaboration",
+        "problem-solving",
+        "learning agility"
+      ],
+      "Experience": [
+        "at least 1 year of experience developing with Java or similar software",
+        "experience meeting with system owners to determine requirements for development",
+        "experience collaborating with business analysts and other developers in order to accomplish the team’s goals",
+        "experience with Elastic and Kafka"
+      ],
+      "keyWordsForATS": [
+        "Web Developer",
+        "Java",
+        "Elastic",
+        "Kafka",
+        "Secret Clearance",
+        "Federal Bureau of Investigation"
+      ]
+    }
+  },
+  {
+    "job14": {
+      "technicalSkill": [
+        "Python (3.9+)",
+        "Flask",
+        "FastAPI",
+        "Starlite",
+        "ORM (e.g. SQLAlchemy)",
+        "React",
+        "Vue.js"
+      ],
+      "softSkill": [],
+      "Experience": [
+        "experience creating RESTful APIs using a modern Python web app framework",
+        "experience creating reusable CRUD operations using an ORM",
+        "experience with modern Javascript front end development and best practices"
+      ],
+      "keyWordsForATS": [
+        "Full Stack Web Developer",
+        "Python",
+        "Flask",
+        "FastAPI",
+        "Starlite",
+        "SQLAlchemy",
+        "React",
+        "Vue.js",
+        "RESTful API",
+        "CRUD",
+        "CI/CD"
+      ]
+    }
+  },
+  {
+    "job15": {
+      "technicalSkill": [
+        "React JS",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "softSkill": [
+        "independent work",
+        "client communication",
+        "creativity",
+        "adaptability",
+        "problem-solving",
+        "time management"
+      ],
+      "Experience": [
+        "experience designing and developing web applications using React JS"
+      ],
+      "keyWordsForATS": [
+        "Full Stack Developer",
+        "React JS",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "mobile responsive design"
+      ]
+    }
+  },
+  {
+    "job16": {
+      "technicalSkill": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "front-end frameworks (Bootstrap, Foundation)"
+      ],
+      "softSkill": [
+        "problem-solving",
+        "analytical",
+        "communication",
+        "teamwork",
+        "self-motivated"
+      ],
+      "Experience": [
+        "minimum 1 year of project experience"
+      ],
+      "keyWordsForATS": [
+        "Junior Web Developer",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap",
+        "Foundation",
+        "Responsive web design",
+        "Mobile-first development",
+        "Version control systems (Git)"
+      ]
+    }
+  },
+  {
+    "job17": {
+      "technicalSkill": [
+        "TypeScript/JavaScript",
+        "modern frameworks (React, React Native, Node.js)",
+        "public cloud technology and services",
+        "CI/CD pipeline automation",
+        "IaC",
+        "observability automation"
+      ],
+      "softSkill": [],
+      "Experience": [
+        "experience as multidisciplinary engineer",
+        "experience in successful delivery of high-quality applications"
+      ],
+      "keyWordsForATS": [
+        "Software Engineering Generalist",
+        "TypeScript",
+        "JavaScript",
+        "React",
+        "React Native",
+        "Node.js",
+        "Cloud platforms",
+        "Agile",
+        "DevOps",
+        "CI/CD",
+        "Serverless development"
+      ]
+    }
+  },
+  {
+    "job18": {
+      "technicalSkill": [
+        "NodeJS",
+        "TypeScript",
+        "Angular (later versions)",
+        "AWS serverless (event-based architecture)",
+        "Basic SQL"
+      ],
+      "softSkill": [],
+      "Experience": [],
+      "keyWordsForATS": [
+        "Full Stack Developer",
+        "NodeJS",
+        "TypeScript",
+        "Angular",
+        "AWS",
+        "Serverless",
+        "SQL"
+      ]
+    }
+  },
+  {
+    "job19": {
+      "technicalSkill": [
+        "Node.js",
+        "web sockets",
+        "TCP/IP",
+        "Grunt",
+        "MongoDB"
+      ],
+      "softSkill": [],
+      "Experience": [],
+      "keyWordsForATS": [
+        "Node.js Full Stack Developer",
+        "Node.js",
+        "web sockets",
+        "TCP/IP",
+        "Grunt",
+        "MongoDB",
+        "AWS"
+      ]
+    }
+  },
+  {
+    "job20": {
+      "technicalSkill": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "front-end frameworks (Bootstrap, Foundation)"
+      ],
+      "softSkill": [
+        "problem-solving",
+        "analytical",
+        "communication",
+        "teamwork",
+        "self-motivated"
+      ],
+      "Experience": [
+        "minimum 1 year of project experience"
+      ],
+      "keyWordsForATS": [
+        "Junior Web Developer",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap",
+        "Foundation",
+        "Responsive web design",
+        "Mobile-first development",
+        "Version control systems (Git)"
+      ]
+    }
+  },
+  {
+    "job21": {
+      "technicalSkill": [
+        "Next.js",
+        "Tailwind CSS",
+        "Typescript",
+        "Javascript",
+        "HTML",
+        "API design"
+      ],
+      "softSkill": [
+        "Proactive",
+        "Self-motivated",
+        "Communication",
+        "Adaptable",
+        "Collaborative",
+        "Blockchain passion"
+      ],
+      "experience": "2+ years of professional experience",
+      "keyWordsForATS": [
+        "Front-End Engineer",
+        "Next.js",
+        "Tailwind CSS",
+        "Javascript",
+        "Typescript",
+        "Blockchain",
+        "API"
+      ],
+      "location": "San Francisco Bay Area (preferred)"
+    }
+  },
+  {
+    "job22": {
+      "technicalSkill": [
+        "React",
+        "Typescript",
+        "Chakra UI (beneficial)",
+        "Python (beneficial)",
+        "Django (beneficial)",
+        "Go (beneficial)",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "REST APIs",
+        "GCP (familiarity)",
+        "K8s (familiarity)"
+      ],
+      "softSkill": [
+        "Learning",
+        "Open source",
+        "User experience",
+        "Product delivery",
+        "Startup environment"
+      ],
+      "experience": "Open to candidates with various levels of experience",
+      "keyWordsForATS": [
+        "Full-Stack Engineer",
+        "React",
+        "Typescript",
+        "Chakra UI",
+        "Python",
+        "Django",
+        "Go",
+        "Web development"
+      ],
+      "location": "Remote"
+    }
+  },
+  {
+    "job23": {
+      "technicalSkill": [
+        "Javascript/Typescript",
+        "Java",
+        "Python",
+        "C",
+        "C++",
+        "C#",
+        "Data structures",
+        "Algorithms",
+        "Unit testing",
+        "Code review"
+      ],
+      "softSkill": [
+        "Collaboration",
+        "Problem-solving",
+        "Ownership",
+        "Learning agility"
+      ],
+      "experience": "2+ years of production software engineering experience",
+      "keyWordsForATS": [
+        "Software Development Engineer II",
+        "Javascript",
+        "Java",
+        "Python",
+        "Data structures",
+        "Algorithms",
+        "Full Stack Development"
+      ],
+      "location": "Remote"
+    }
+  },
+  {
+    "job24": {
+      "technicalSkill": [
+        "Java (Spring, Spring Boot, Jersey)",
+        "Javascript/Mobile frameworks (Angular, AngularJS, ReactJS)",
+        "HTML5/CSS3",
+        "Web application development"
+      ],
+      "softSkill": [
+        "Collaboration",
+        "Problem-solving",
+        "Curiosity",
+        "Learning agility"
+      ],
+      "experience": "Minimum 2 years of experience with Java-based frameworks or Javascript/Mobile frameworks",
+      "keyWordsForATS": [
+        "Web Developer",
+        "Java",
+        "Javascript",
+        "Spring",
+        "Angular",
+        "React",
+        "Web development"
+      ],
+      "location": "Various locations in the US (California, Colorado, New York, Washington State)"
+    }
+  },
+  {
+    "job25": {
+      "technicalSkill": [
+        "JavaScript (4 years)",
+        "ReactJS (4 years)",
+        "BootstrapJS (4 years, preferably v5)",
+        "HTML",
+        "CSS",
+        "SQL",
+        "Java (1 year)",
+        "Spring Boot (1 year)",
+        "Git",
+        "Nexus",
+        "IntelliJ"
+      ],
+      "softSkill": [
+        "Project Management",
+        "Communication",
+        "Collaboration",
+        "UI/UX Design",
+        "Problem-solving",
+        "Analytical Skills",
+        "Attention to detail"
+      ],
+      "experience": [
+        "4+ years of experience developing front-ends with UI/UX best practices and knowledge of ADA Compliance.",
+        "1+ year of experience with Java and Spring Boot."
+      ],
+      "keyWordsForATS": [
+        "Full Stack Developer",
+        "JavaScript",
+        "ReactJS",
+        "BootstrapJS",
+        "HTML",
+        "CSS",
+        "SQL",
+        "Java",
+        "Spring Boot",
+        "UI/UX design",
+        "Project Management",
+        "Communication",
+        "Collaboration",
+        "Problem-solving",
+        "Attention to detail",
+        "ADA Compliance"
+      ]
+    }
+  },
+  {
+    "job26": {
+      "technicalSkill": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Python (or Ruby, or Node.js)",
+        "SQL",
+        "Version control system (e.g., Git)"
+      ],
+      "softSkill": [
+        "Problem-solving",
+        "Analytical skills",
+        "Communication",
+        "Teamwork"
+      ],
+      "experience": [
+        "Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent experience)",
+        "Experience with front-end frameworks (such as React, Angular, or Vue.js)",
+        "Familiarity with databases and SQL",
+        "Understanding of RESTful APIs and web services"
+      ],
+      "keyWordsForATS": [
+        "Full Stack Web Developer",
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Python",
+        "Ruby",
+        "Node.js",
+        "SQL",
+        "Front-end framework",
+        "Database",
+        "RESTful API",
+        "Version control system",
+        "Problem-solving",
+        "Analytical skills",
+        "Communication",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "job27": {
+      "technicalSkill": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Modern JavaScript Front-End Framework (Vue.JS or React.JS)",
+        "Ruby on Rails or Node.JS",
+        "GIT version control",
+        "SQL (PostgreSQL)",
+        "Unit testing (JS frameworks like Jest or Mocha)"
+      ],
+      "softSkill": [
+        "Communication",
+        "Teamwork",
+        "Attention to detail",
+        "Organization",
+        "Adaptability"
+      ],
+      "experience": [
+        "Proven experience as a Full Stack Developer",
+        "Experience developing web and mobile applications",
+        "Degree in Computer Science, Statistics or relevant field (preferred)"
+      ],
+      "keyWordsForATS": [
+        "Full Stack Developer",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Vue.JS",
+        "React.JS",
+        "Ruby on Rails",
+        "Node.JS",
+        "GIT",
+        "SQL",
+        "PostgreSQL",
+        "Unit testing",
+        "Communication",
+        "Teamwork",
+        "Attention to detail",
+        "Organization",
+        "Adaptability",
+        "Computer Science",
+        "Statistics"
+      ]
+    }
+  },
+  {
+    "job28": {
+      "technicalSkill": [
+        "React",
+        "PHP",
+        "MongoDB",
+        "SQL",
+        "HL7",
+        "FHIR",
+        "Cloud infrastructure (AWS)",
+        "Linux",
+        "GIT",
+        "RESTful APIs",
+        "User experience (UX) design"
+      ],
+      "softSkill": [
+        "Problem-solving",
+        "Teamwork",
+        "Dependability",
+        "Structure",
+        "Work prioritization"
+      ],
+      "experience": [
+        "Bachelor's degree (preferred)",
+        "Minimum 2 years of experience implementing software solutions",
+        "Experience with HL7, Mirth, FHIR, and SQL",
+        "Experience with cloud infrastructure, AWS, and Linux",
+        "Experience with PHP and React",
+        "Working knowledge of NoSQL (MongoDB/DynamoDB)"
+      ],
+      "keyWordsForATS": [
+        "Full Stack Developer",
+        "React",
+        "PHP",
+        "MongoDB",
+        "SQL",
+        "HL7",
+        "FHIR",
+        "Cloud infrastructure",
+        "AWS",
+        "Linux",
+        "GIT",
+        "RESTful API",
+        "User experience",
+        "UX design",
+        "Problem-solving",
+        "Teamwork",
+        "Dependability",
+        "Structure",
+        "Work prioritization"
+      ]
+    }
+  },
+  {
+    "job29": {
+      "technicalSkill": [
+        "Angular",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "RESTful API design and development",
+        "SQL or NoSQL databases"
+      ],
+      "softSkill": [],  
+      "experience": [
+        "Proven experience as a Full Stack Developer",
+        "Proficiency in front-end frameworks (e.g., Angular, React, or Vue.js)"
+      ],
+      "keyWordsForATS": [
+        "Full Stack Developer",
+        "Angular",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "Front-end framework",
+        "RESTful API",
+        "Database",
+        "SQL",
+        "NoSQL"
+      ]
+    }
+  },
+  {
+    "job30": {
+      "technicalSkill": [
+        "Full-stack web development",
+        "Python",
+        "PostgreSQL",
+        "Linux"
+      ],
+      "softSkill": [],  
+      "experience": [
+        "Experience with full-stack web development, Python, PostgreSQL, and Linux"
+      ],
+      "keyWordsForATS": [
+        "Full Stack Developer",
+        "Web development",
+        "Python",
+        "PostgreSQL",
+        "Linux",
+        "Data visualization",
+        "UI/UX",
+        "Design"
+      ]
+    }
+  },
+  {
+    "job31": {
+      "technicalSkill": [
+        "Java (especially RESTful Web Services)",
+        "SQL",
+        "AWS",
+        "Angular (experience a plus)",
+        "Jenkins",
+        "CI/CD Pipelines",
+        "Udeploy",
+        "Maven",
+        "Git"
+      ],
+      "softSkill": [
+        "Teamwork",
+        "Communication",
+        "Critical thinking",
+        "Learning agility"
+      ],
+      "experience": [
+        "Experience collaborating in a team environment to develop, deploy, and support key applications and features.",
+        "A demonstrable understanding of the Agile software development methodology.",
+        "A working knowledge of Oracle Database software.",
+        "A working knowledge of application deployment and runtime operations in an AWS environment.",
+        "Experience with Java middle tier application development and programming.",
+        "BS/BA Degree or equivalent experience (preferred)"
+      ],
+      "keyWordsForATS": [
+        "Software Engineer",
+        "Agile",
+        "Scrum",
+        "LRM",
+        "Java",
+        "Spring Boot",
+        "RESTful API",
+        "SQL",
+        "AWS",
+        "Angular",
+        "Jenkins",
+        "CI/CD",
+        "Udeploy",
+        "Maven",
+        "Git",
+        "Teamwork",
+        "Communication",
+        "Critical thinking",
+        "Learning agility"
+      ]
+    }
+  },
+  {
+    "job32": {
+      "technicalSkill": [
+        "Java",
+        "Angular",
+        "J2EE",
+        "Java scripting tools",
+        "HTML/CSS",
+        "JavaScript",
+        "DevOps tools",
+        "Version control system"
+      ],
+      "softSkill": [
+        "Communication (written and verbal)",
+        "Time management",
+        "Teamwork",
+        "Problem-solving"
+      ],
+      "experience": [
+        "U.S Citizenship (required)",
+        "Bachelor's Degree in Computer Science or related discipline",
+        "Minimum 2 years of experience",
+        "Experience with enterprise applications"
+      ],
+      "keyWordsForATS": [
+        "Full Stack Developer",
+        "Java",
+        "Angular",
+        "J2EE",
+        "HTML/CSS",
+        "JavaScript",
+        "DevOps",
+        "Agile",
+        "Version control system",
+        "Communication",
+        "Time management",
+        "Teamwork",
+        "Problem-solving",
+        "U.S. Citizenship",
+        "Public Trust clearance"
+      ]
+    }
+  }
+  
+  
+]
+
+
+
+
+  

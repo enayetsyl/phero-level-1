@@ -1,0 +1,10 @@
+<style>
+        {`
+          text {
+            font-size: 60px;
+            font-family: 'Kode Mono', monospace;
+            dominant-baseline: central;
+            text-anchor: middle;
+          }
+        `}
+      </style>

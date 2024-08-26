@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>News Portal</title>
+    <!-- tailwind and daisyui cdn -->
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/daisyui@3.3.1/dist/full.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="bg-[#f6f6f6]">
+    <!-- header -->
+    <header class="w-11/12 mx-auto">
+      <nav class="flex  justify-between items-center py-10">
+        <!-- left div -->
+        <div class="gap-5">
+          <button class="p-2 rounded-md hover:bg-[#5d5fef] text-[#5d5fef] hover:text-white font-bold">News</button>
+          <button class="p-2 rounded-md hover:bg-[#5d5fef] text-[#5d5fef] hover:text-white font-bold">Portal</button>
+        </div>
+
+        <!-- right div -->
+        <div class="flex justify-center items-center gap-10">
+          <p class="text-[#a3a3a3] font-normal hover:text-[#5d5fef] hover:font-bold hover:underline cursor-pointer">News</p>
+          <p class="text-[#a3a3a3] font-normal hover:text-[#5d5fef] hover:font-bold hover:underline cursor-pointer">Blog</p>
+          <div>
+            <img class="h-10 w-10 rounded-full" src="./banner_1.png" alt="" />
+          </div>
+        </div>
+      </nav>
+      <hr>
+      <!-- news catagory display -->
+      <div id="all-news-catagory-container" class="mt-9 pb-11 flex justify-center items-center gap-10 flex-wrap">
+       
+      </div>
+    </header>
+
+    <main class="w-11/12 mx-auto"></main>
+    <script src="index.js"></script>
+  </body>
+</html>
